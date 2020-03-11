@@ -18,7 +18,7 @@
     <wildfly-port>9990</wildfly-port>
     <wildfly-username>monditech</wildfly-username>
     <wildfly-password>m0nd1t3ch.2018</wildfly-password>
-
+	<failOnMissingWebXml>false</failOnMissingWebXml>
   </properties>
 
   
