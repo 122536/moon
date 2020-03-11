@@ -61,7 +61,7 @@
             		<server-group>main-server-group</server-group>
         		</server-groups>
 			</domain>
-			<webXml>src\main\War\WEB-INF\web.xml</webXml>
+			<webXml>/src/main/War/WEB-INF/web.xml</webXml>
                 </configuration>
                 <executions>
                     <execution>
